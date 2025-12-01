@@ -26,9 +26,6 @@ Versionamento profissional no GitHub
 ✔ usar documentação automática Swagger
 ✔ boas práticas de organização
 
-🎥 Demonstração (GIF)
-
-Adicione aqui se quiser deixar ainda mais profissional:
 
 ![Demonstração](gif-do-projeto.gif)
 
