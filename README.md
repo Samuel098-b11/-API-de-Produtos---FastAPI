@@ -33,7 +33,7 @@ Adicione aqui se quiser deixar ainda mais profissional:
 ![Demonstração](gif-do-projeto.gif)
 
 
-Se quiser, posso criar um GIF moderno, com bordas e temática escura.
+
 
 📁 Estrutura do projeto
 📦 API-de-Produtos-FastAPI
